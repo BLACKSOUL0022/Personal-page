@@ -161,4 +161,8 @@ body {
             .GH-text {
                 font-size: 15px;
             }
+            .link_text {
+                margin-bottom: 10px;
+            }
+
         }
